@@ -1,4 +1,4 @@
-# Contributing to app-mono
+# Contributing to app-friday
 
 We welcome everyone to contribute what and where they can. Whether you are brand
 new, just want to contribute a little bit, or want to contribute a lot there is
@@ -90,7 +90,7 @@ need to be the best programmer to contribute.
 
 6.  **Build** the project
 
-    - For a detailed look on how to build app-mono look at our
+    - For a detailed look on how to build app-friday look at our
       [README file](./README.md).
 
 7.  **Start writing** your code
